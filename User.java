@@ -1,8 +1,10 @@
 public class User{
     public static void main(String[] args) {
-        // 第一行测试代码，程序员2修改了这行代码
+        // 第一行测试代码，程序员3解决了这个冲突
         Animal white = new Animal("小白", 5, "白色");
         System.out.println(white);
+        Animal yellow = new Animal("小黄", 3, "黄色");
+        System.out.println(yellow);
         // 第二行测试代码
     }
 }
