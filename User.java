@@ -1,6 +1,6 @@
 public class User{
     public static void main(String[] args) {
-        // 第一行测试代码
+        // 第一行测试代码，程序员2修改了这行代码
         Animal white = new Animal("小白", 5, "白色");
         System.out.println(white);
         // 第二行测试代码
